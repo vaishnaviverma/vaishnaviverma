@@ -1,6 +1,6 @@
 ### Hi there, I'm Vaishnavi 👋
 
-I'm currently pursuing my **Master of Science in Data Science** at the **University of Washington, Seattle**. Previously, I spent over three years at **Microsoft** as an Associate Data Consultant in the Azure Data & AI domain. I am also an **ACM-ICPC Regionalist (2019-2020)**.
+I'm currently pursuing my **Master of Science in Data Science** at the **University of Washington, Seattle**. Previously, I spent over three years at **Microsoft** as a Data Engineer in the Azure Data & AI domain. I am also an **ACM-ICPC Regionalist (2019-2020)**.
 
 ### Skills
 
