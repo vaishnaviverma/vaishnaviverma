@@ -35,4 +35,6 @@ I'm currently pursuing my **Master of Science in Data Science** at the **Univers
 ### Keep in touch
 * Connect with me on [LinkedIn](https://www.linkedin.com/in/vaishnaviverma)
 * Check out my competitive programming profile on [CodeChef](https://www.codechef.com/users/vaishnaviverma)
+* View my [Resume](https://drive.google.com/file/d/1TBDa2-r3agB8sS1UbwRkUab80ZIbJxFI/view?usp=sharing)
+* Schedule a [30-min coffee chat](https://calendly.com/vaishver-uw/30min)
 * Since you're here, let's connect on [GitHub](https://github.com/vaishnaviverma)!
